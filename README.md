@@ -20,7 +20,7 @@ This project is a simple eCommerce website built using the React framework. It i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-website.git
+   git clone https://github.com/shukla-sahil/CSI-Week7.git
    cd ecommerce-website
 
 2. Install dependencies:
